@@ -1,7 +1,7 @@
 {
   "package": {
     "dependencies": {
-      "react-intl": "^5.25.1",
+      "react-intl": "^6.6.8",
       "react-redux": "^8.0.2",
       "react-router": "^6.23.1",
       "react-router-dom": "^6.23.1"
@@ -14,7 +14,7 @@
       "eslint-plugin-prettier": "5.2.1",
       "eslint-plugin-react": "^7.36.1",
       "eslint-plugin-import": "^2.30.0",
-      "eslint-plugin-react-hooks": "4.6.2",
+      "eslint-plugin-react-hooks": "5.1.0-canary-cb151849e1-20240424",
       "eslint-plugin-n": "^17.10.3",
       "prettier": "3.3.3"
     },
