@@ -12,9 +12,6 @@ const compat = new FlatCompat()
 // Waiting to support eslint 9
 // import importPlugin from 'eslint-plugin-import'
 
-// Using canary, support for eslint9 will be out when React 19 gets out
-// import hooksPlugin from 'eslint-plugin-react-hooks'
-
 export default [
   eslint.configs.recommended,
   // nodePlugin.configs['flat/recommended-script'],
